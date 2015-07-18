@@ -2,7 +2,7 @@
 
 This is an ARM version of Ubuntu 12.04 (LTS) patched with the lastest NVIDIA Tegra Drivers.
 
-To install, copy the MROM file to you tablet and use MultiROM (http://forum.xda-developers.com/showthread.php?t=2011403).
+To install, copy the MROM file (https://github.com/gabrielrcouto/nexus7-ubuntu-12-04/releases/download/v1.0/ubuntu-12-04.mrom) to you tablet and use MultiROM (http://forum.xda-developers.com/showthread.php?t=2011403).
 
 You'll need an OTG cable to plug a keyboard on your tablet and setup it.
 
