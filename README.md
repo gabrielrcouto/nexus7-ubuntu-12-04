@@ -37,6 +37,10 @@ I recommend you to use the "GNOME Classic (No effects)" session, it's light and 
 
 ![How to choose the session](http://4.bp.blogspot.com/-1uvXhmQZ5Ic/TzW7sfOJB3I/AAAAAAAAHuk/1NSdl4NJVZM/s1600/gnome-classic-login-screen.png)
 
+## Drivers
+
+If you want to patch your own Linux Distribution with NVIDIA Tegra drivers, look here: https://developer.nvidia.com/linux-tegra-rel-16. The Nexus 7 (2012) uses Cardhu drivers package.
+
 ## Author
 
 Gabriel Couto - [@gabrielrcouto](http://www.twitter.com/gabrielrcouto)
